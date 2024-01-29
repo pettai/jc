@@ -202,6 +202,7 @@ parsers: List[str] = [
     'ufw',
     'ufw-appinfo',
     'uname',
+    'unbound-control',
     'update-alt-gs',
     'update-alt-q',
     'upower',
